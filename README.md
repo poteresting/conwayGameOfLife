@@ -1,5 +1,5 @@
 # Conway's Game of Life
 
-Description: This is a program that demonstrates theory of conway's game of life
+Description: This is a program that demonstrates conway's game of life theory
 
-Note: The lives are indicated as **0** and deaths as **.**
+Note: The lives are indicated as **o**
