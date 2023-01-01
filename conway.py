@@ -25,8 +25,8 @@ while True:
             neighbor = 0
             left = (x-1) % 80
             right = (x+1) % 80
-            up = (y-1) % 20
-            down = (y+1) % 20
+            up = (y-1) % 23
+            down = (y+1) % 23
             if current[y][left] == 'o':
                 neighbor += 1
             if current[y][right] == 'o':
